@@ -1,1 +1,1 @@
-This is a Python apps
+This is a Python app
